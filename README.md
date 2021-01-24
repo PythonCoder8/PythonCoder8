@@ -7,3 +7,4 @@ Here are some things you might wanna know about me:
 - **I don't do advanced programming**
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=tokyonight)
