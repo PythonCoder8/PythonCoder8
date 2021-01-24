@@ -1,6 +1,6 @@
 ### Hi there 👋😀
 
-Here are some things you might wanna knwo about me:
+Here are some things you might wanna know about me:
 
 - **I program in Python and Javascript**
 - **I'm currently learning Shell**
