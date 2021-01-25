@@ -20,4 +20,4 @@ Here are some things you might wanna know about me:
 
 Languages and tools I am using/learning:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
