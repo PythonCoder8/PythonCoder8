@@ -15,6 +15,7 @@ Here are some things you might wanna know about me:
 - **My goal is to make more Github contributions**
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight)
 
 
@@ -26,4 +27,4 @@ Languages and tools I am using/learning:
 
 Profiles:
 
-<a href='https://www.youtube.com/channel/UCzKG5DOw6Z-MlV5EDJaeRFg'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /></a>
+<a href='https://www.youtube.com/channel/UCzKG5DOw6Z-MlV5EDJaeRFg'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /></a> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" />
