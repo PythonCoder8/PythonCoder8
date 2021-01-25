@@ -28,6 +28,6 @@ Languages and tools I am using/learning:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
 
-My online profiles:
+Find me on the web:
 
 <a href='https://www.youtube.com/channel/UCzKG5DOw6Z-MlV5EDJaeRFg'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /></a> <a href='https://open.spotify.com/user/zxm7a2pkeh4jigp9wct7rmw47'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" /></a> <a href='https://www.deezer.com/en/profile/3602087702'><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/deezer.svg" /></a>
