@@ -14,7 +14,10 @@ Here are some things you might wanna know about me:
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 
 <img align='right' alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight'>
