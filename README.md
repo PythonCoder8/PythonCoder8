@@ -14,6 +14,8 @@ Here are some things you might wanna know about me:
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight)
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=tokyonight)
