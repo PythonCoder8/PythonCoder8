@@ -2,6 +2,8 @@
 
 I love programming, and I'm just a kid who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
 
+If you are interested in my work please follow me.
+
 ![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=PythonCoder8.PythonCoder8)
 
 [![Profile followers](https://img.shields.io/github/followers/PythonCoder8?label=Follow&style=social)](https://github.com/PythonCoder8)
