@@ -17,3 +17,7 @@ Here are some things you might wanna know about me:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight)
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=tokyonight)
+
+Languages and tools I am using/learning:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />
