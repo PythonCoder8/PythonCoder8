@@ -1,12 +1,13 @@
 ### Hi there, I'm Ryan  - aka PythonCoder8 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=PythonCoder8.PythonCoder8)
+
+[![Profile followers](https://img.shields.io/github/followers/PythonCoder8?label=Follow&style=social)](https://github.com/PythonCoder8)
+
 I love programming, and I'm just a kid who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
 
 If you are interested in my work please follow me.
 
-![Profile visitors](https://visitor-badge.laobi.icu/badge?page_id=PythonCoder8.PythonCoder8)
-
-[![Profile followers](https://img.shields.io/github/followers/PythonCoder8?label=Follow&style=social)](https://github.com/PythonCoder8)
 
 Here are some things you might wanna know about me:
 
