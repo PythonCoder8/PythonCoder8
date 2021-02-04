@@ -19,9 +19,9 @@ Here are some things you might wanna know about me:
 
 
 <p align='center'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=tokyonight' width='500'></p>
-<p align='center'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=tokyonight'>
+<p align='center'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=tokyonight'></p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align='center'><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 
 
 Languages and tools I am using/learning:
