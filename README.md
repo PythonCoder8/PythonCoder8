@@ -6,7 +6,7 @@
 
 I love programming, and I'm just a kid who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
 
-If you are interested in my work please follow me.
+If you are interested in my work please follow me and star some of my repositories.
 
 
 Here are some things you might wanna know about me:
