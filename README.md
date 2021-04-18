@@ -26,7 +26,7 @@ Here are some things you might wanna know about me:
 
 Languages and tools I am using/learning:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> <img height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg">
 
 Find me on the web:
 
