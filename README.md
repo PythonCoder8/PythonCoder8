@@ -4,7 +4,7 @@
 
 [![Profile followers](https://img.shields.io/github/followers/PythonCoder8?label=Follow&style=social)](https://github.com/PythonCoder8)
 
-I love programming, and I'm just a kid who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
+I love programming, and I'm just a guy who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
 
 If you are interested in my work please follow me and star some of my repositories.
 
