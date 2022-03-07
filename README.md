@@ -10,7 +10,6 @@ Here are some things you might wanna know about me:
 
 - **I'm currently working on Raspberry Pi programs**
 - **I program in Python and Javascript**
-- **I'm currently learning Shell**
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
