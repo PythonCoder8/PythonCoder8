@@ -8,11 +8,9 @@ I love programming, and I'm just a guy who doesn't do really advanced stuff, so 
 
 Here are some things you might wanna know about me:
 
-- **I'm currently working on Raspberry Pi programs**
 - **I program in Python and Javascript**
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
-
 
 <p align='left'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=midnight-purple' width='500'></p>
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
