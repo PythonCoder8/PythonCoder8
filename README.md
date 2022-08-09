@@ -8,7 +8,7 @@ I love programming, and I'm just a guy who doesn't do really advanced stuff, so 
 
 Here are some things you might wanna know about me:
 
-- **I program in Python and Javascript**
+- **I program in Python and Javascript (mainly python though)**
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
