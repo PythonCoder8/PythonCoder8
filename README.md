@@ -20,4 +20,4 @@ Languages and tools I am using/learning:
 
 Find me on the web:
 
-<a href='https://open.spotify.com/user/zxm7a2pkeh4jigp9wct7rmw47'><img height="31" width="31" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" /></a> <a href='https://web.roblox.com/users/2370993656/profile'><img height='35' width='35' src='https://simpleicons.org/icons/roblox.svg'/></a> <a href='https://www.codewars.com/users/PythonCoder8'><img height='35' width='35' src='https://simpleicons.org/icons/codewars.svg'></img></a><a href = 'https://leetcode.com/user5889dw/'><img height='35' width='35' src='https://simpleicons.org/icons/leetcode.svg'></img></a>
+<a href='https://www.codewars.com/users/PythonCoder8'><img height='35' width='35' src='https://simpleicons.org/icons/codewars.svg'></img></a><a href = 'https://leetcode.com/user5889dw/'><img height='35' width='35' src='https://simpleicons.org/icons/leetcode.svg'></img></a>
