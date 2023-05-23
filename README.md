@@ -9,6 +9,7 @@ Here are some things you might wanna know about me:
 - **My goal is to make more Github contributions**
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align='left'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=midnight-purple' width='500'></p>
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
