@@ -1,4 +1,4 @@
-### Hi there, I'm Ryan  - aka PythonCoder8 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there, I'm Ryan  - aka PythonCoder8 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I love programming, and I'm just a guy who doesn't do really advanced stuff, so if my programming isn't that good, I just gave you the reason.
 
@@ -7,9 +7,6 @@ Here are some things you might wanna know about me:
 - **I program in Python and Javascript (mainly python though)**
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <p align='left'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=midnight-purple' width='500'></p>
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
