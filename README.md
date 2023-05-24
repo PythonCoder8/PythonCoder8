@@ -8,7 +8,7 @@ Here are some things you might wanna know about me:
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
-## Github Stats :zap:
+## :zap: Github Stats
 <p align='left'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=midnight-purple' width='500'></p>
 
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
