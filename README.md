@@ -14,6 +14,7 @@ Here are some things you might wanna know about me:
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
 
 <!--START_SECTION:waka-->
+blah blah blah
 <!--END_SECTION:waka-->
 
 
