@@ -8,13 +8,14 @@ Here are some things you might wanna know about me:
 - **I don't do advanced programming**
 - **My goal is to make more Github contributions**
 
+
+## :fire: My Github Contribution Streaks
+![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)
+
 ## :zap: My Stats
 <p align='left'><img alt='Github stats' src='https://github-readme-stats.vercel.app/api?username=pythoncoder8&show_icons=true&theme=midnight-purple' width='500'></p>
 
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
-
-## :fire: My Github Contribution Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)](https://git.io/streak-stats)
 
 
 <!--START_SECTION:waka-->
@@ -89,6 +90,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 26/05/2023 02:44:37 UTC
 <!--END_SECTION:waka-->
+
 
 ---
 
