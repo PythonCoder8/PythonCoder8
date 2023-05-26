@@ -30,4 +30,4 @@ Languages and tools I am using/learning:
 
 Find me on the web:
 
-<a href='https://www.codewars.com/users/PythonCoder8'><img height='35' width='35' src='https://simpleicons.org/icons/codewars.svg'></img></a><a href = 'https://leetcode.com/user5889dw/'><img height='35' width='35' src='https://simpleicons.org/icons/leetcode.svg'></img></a>
+<a href='https://www.codewars.com/users/PythonCoder8'><img height='35' width='35' src='https://simpleicons.org/icons/codewars.svg'></img> </a><a href = 'https://leetcode.com/user5889dw/'><img height='35' width='35' src='https://simpleicons.org/icons/leetcode.svg'></img></a>
