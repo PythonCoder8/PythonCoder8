@@ -13,6 +13,7 @@ Here are some things you might wanna know about me:
 
 <p align='left'><img alt='Most Used Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PythonCoder8&theme=midnight-purple'></p>
 
+## :fire: My Github Contribution Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)](https://git.io/streak-stats)
 
 
