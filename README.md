@@ -19,7 +19,7 @@ Here are some things you might wanna know about me:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-312-blue)
 
@@ -62,16 +62,17 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+Python                   13 mins             ████████████████████████░   96.92 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spotify                  4 mins              █████████████████████████   100.00 % 
+spotify                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +89,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PythonCoder8/PythonCoder8/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2023 07:11:56 UTC
+ Last Updated on 27/05/2023 07:36:28 UTC
 <!--END_SECTION:waka-->
 
 
