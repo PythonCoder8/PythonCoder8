@@ -19,9 +19,9 @@ Here are some things you might wanna know about me:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-322-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-323-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PythonCoder8/PythonCoder8/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2023 20:13:52 UTC
+ Last Updated on 28/05/2023 20:36:38 UTC
 <!--END_SECTION:waka-->
 
 
