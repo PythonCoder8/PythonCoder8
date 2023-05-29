@@ -6,7 +6,7 @@ Here are some things you might wanna know about me:
 
 - **I program in Python and Javascript (mainly python though)**
 - **I am a grade 6 student who enjoys playing guitar and playing basketball**
-- **I am going to become the world's first decillionaire 💵**
+- **I am going to become the world's first centillionaire 💵**
 
 ## :fire: My Github Contribution Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)
