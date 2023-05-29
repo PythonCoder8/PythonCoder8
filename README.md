@@ -5,9 +5,8 @@ I'm a casual programmer in Irvine, California and have been programming for 4 ye
 Here are some things you might wanna know about me:
 
 - **I program in Python and Javascript (mainly python though)**
-- **I don't do advanced programming**
-- **My goal is to make more Github contributions**
-
+- **I am a grade 6 student who enjoys playing guitar and playing basketball
+- **I am going to become the world's first decillionaire. 💲**
 
 ## :fire: My Github Contribution Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)
