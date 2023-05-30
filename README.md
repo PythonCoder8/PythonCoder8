@@ -24,7 +24,7 @@ Here are some things you might wanna know about me:
 
 **🐱 My GitHub Data** 
 
-> 📦 563 Bytes Used in GitHub's Storage 
+> 📦 564 Bytes Used in GitHub's Storage 
  > 
 > 🏆 80 Contributions in the Year 2023
  > 
@@ -89,7 +89,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PythonCoder8/PythonCoder8/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2023 22:36:15 UTC
+ Last Updated on 30/05/2023 23:13:48 UTC
 <!--END_SECTION:waka-->
 
 
