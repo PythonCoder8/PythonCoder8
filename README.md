@@ -18,7 +18,7 @@ Here are some things you might wanna know about me:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-472-blue)
 
@@ -61,18 +61,18 @@ Sunday                   104 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   5 hrs 53 mins       █████████████████████████   99.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   6 hrs 53 mins       █████████████████████████   99.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spotify                  5 hrs 54 mins       █████████████████████████   100.00 % 
+spotify                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PythonCoder8/PythonCoder8/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 07:13:04 UTC
+ Last Updated on 31/05/2023 07:36:37 UTC
 <!--END_SECTION:waka-->
 
 
