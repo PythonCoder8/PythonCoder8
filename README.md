@@ -1,11 +1,4 @@
-# Hi there, I'm Ryan - aka PythonCoder8 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm a casual programmer in Irvine, California and have been programming for 4 years. I do fun programming projects in Python in my free time.
-
-Here are some things you might wanna know about me:
-
-- **I program in Python and Javascript (mainly python though)**
-- **I am a grade 7 student who enjoys playing guitar and playing basketball**
+# Hello there, I'm Ryan - aka PythonCoder8 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## :fire: My Github Contribution Streaks
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PythonCoder8&theme=violet-punch)
